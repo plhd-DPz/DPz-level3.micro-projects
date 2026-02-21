@@ -26,9 +26,9 @@ This repository contains very small functional applications built to bridge the 
 
 ## Structure
 
-  app_name/
-      main_file
-      readme_name.md
+    app_name/
+        main_file
+        readme_name.md
 
 ## Philosophy
 
